@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "public": true,
+  "name": "doodle-saver-expense-tracker",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ],
+  "cleanUrls": true
+}
